@@ -10,6 +10,6 @@ It creates the folders **Controllers**, **Models**, **Views**, **Config**, and *
 Clone the repository and build the tool:
 
 ```bash
-git clone https://github.com/your-username/mvc-47.git
-cd mvc-47
+git clone https://github.com/KhalfaouiDriss/mvc-setup.git
+cd mvc-setup
 sudo make install
