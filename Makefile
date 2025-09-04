@@ -11,6 +11,8 @@ install: $(NAME)
 	@sleep 1
 	@sudo cp $(NAME) /bin/
 	@echo ""
+	@echo "    \033[1;33m<Khalfaoui Driss>\033[0m"
+	@echo ""
 	@echo "\033[1;32mInstalled successfully!\033[0m"
 	@echo "\033[1;34mUsage:\033[0m  mvc-47 <project_name>"
 	@echo "\033[1;33mExample:\033[0m mvc-47 myApp"
